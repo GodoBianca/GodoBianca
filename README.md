@@ -1,4 +1,4 @@
-## Oiii, meu nome é Bianca Godo, sou estudante e praticante de desenvolvimentos web!
+## Oiii, meu nome é Bianca Godo, sou estudante no Tecnologo de ADS na FIAP e praticante de desenvolvimentos web!
 
 Á baixo deixo a descrição de linguagens, IDE e libs que já programei, e que ainda estou estudando e me aprimorando:
 
