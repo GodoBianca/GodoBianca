@@ -1,5 +1,7 @@
 ## Oiii, meu nome é Bianca Godo, sou estudante e praticante de desenvolvimentos web!
 
+Á baixo deixo a descrição de linguagens, IDE e libs que já programei, e que ainda estou estudando e me aprimorando:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
